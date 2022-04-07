@@ -27,7 +27,7 @@ async function Bot_Adhkar() {
             cacheEnabled: true,
             qrRefreshS: 0,
             throwErrorOnTosBlock: false,
-            deleteSessionDataOnLogout: false,
+            deleteSessionDataOnLogout: true,
             skipUpdateCheck: false,
             bypassCSP: true,
             headless: true,
